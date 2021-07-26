@@ -1,0 +1,16 @@
+
+
+
+
+ divisible(25,5);
+ divisible(35,6);
+ }
+ 
+ 
+ divisible( int x, int y)}
+  while(x>=y){
+  x=x-y;
+  }
+  if (x==0) {system.out.printIn("yes");}
+  else {System.out.printIn("no");};
+  }
